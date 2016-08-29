@@ -1,1 +1,196 @@
-{}
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/techlady/movie_review/app/views/movies/index.html.erb",
+		"/home/techlady/movie_review/.gitignore",
+		"/home/techlady/movie_review/app/assets/stylesheets/application.css",
+		"/home/techlady/movie_review/Gemfile",
+		"/home/techlady/movie_review/app/assets/javascripts/application.js",
+		"/home/techlady/movie_review/app/assets/stylesheets/application.scss",
+		"/home/techlady/movie_review/app/models/movie.rb",
+		"/home/techlady/movie_review/app/views/movies/show.html.erb",
+		"/home/techlady/movie_review/app/views/movies/_form.html.erb",
+		"/home/techlady/movie_review/app/controllers/movies_controller.rb",
+		"/home/techlady/movie_review/db/migrate/20160828161526_add_attachment_image_to_movies.rb",
+		"/home/techlady/movie_review/db/migrate/20160827162726_add_user_id_to_movies.rb",
+		"/home/techlady/movie_review/config/environments/development.rb",
+		"/home/techlady/movie_review/app/models/user.rb",
+		"/home/techlady/movie_review/bin/rake",
+		"/home/techlady/movie_review/config/routes.rb",
+		"/home/techlady/movie_review/app/controllers/application_controller.rb",
+		"/home/techlady/movie_review/app/views/layouts/application.html.erb",
+		"/home/techlady/movie_review/Gemfile.lock",
+		"/home/techlady/MovieReview/movie_review/config/routes.rb",
+		"/home/techlady/MovieReview/movie_review/app/models/user.rb",
+		"/home/techlady/MovieReview/movie_review/db/migrate/20160827141807_add_devise_to_users.rb",
+		"/home/techlady/MovieReview/movie_review/app/models/movie.rb",
+		"/home/techlady/MovieReview/movie_review/app/controllers/application_controller.rb",
+		"/home/techlady/MovieReview/movie_review/config/environments/development.rb",
+		"/home/techlady/MovieReview/movie_review/config/environments/production.rb",
+		"/home/techlady/MovieReview/movie_review/config/initializers/devise.rb",
+		"/home/techlady/MovieReview/movie_review/config/locales/devise.en.yml",
+		"/home/techlady/MovieReview/movie_review/Gemfile",
+		"/home/techlady/MovieReview/movie_review/app/views/layouts/application.html.erb",
+		"/home/techlady/MovieReview/movie_review/4.2\n\ngem devise,~> 4.2",
+		"/home/techlady/Downloads/sublime-text_build-3114_amd64.deb"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "movie.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
