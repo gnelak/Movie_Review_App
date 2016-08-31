@@ -34,7 +34,6 @@ gem 'paperclip-cloudinary'
 group :production do
 	gem 'pg'
 	gem 'rails_12factor'
-
 end
 
 # Use Unicorn as the app server
