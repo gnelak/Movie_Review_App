@@ -1,31 +1,17 @@
-class Ability
-  include CanCan::Ability
+# class Ability
+#   include CanCan::Ability
 
-  def initialize(user)
-    user ||= User.new # guest user (not logged in)
-    if user.admin?
-      can :manage, :all
-      can :create, :all
-    else
-      can :read, :all
-      can :create, :review
-    end
-  end
-end
-
-class Ability
-  include CanCan::Ability
-
-  def initialize(user)
-    user ||= User.new # guest user (not logged in)
-    if user.role? :administrator
-      can :manage, :all
-    else
-      can :read, :all
-      can :create, Product
-    end
-  end
-end
+#   def initialize(user)
+#     user ||= User.new # guest user (not logged in)
+#     if user.admin?
+#       can :manage, :all
+#       can :create, :all
+#     else
+#       can :read, :all
+#       can :create, :review
+#     end
+#   end
+# end
 
 
   def initialize(user)
